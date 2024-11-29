@@ -1,0 +1,2 @@
+Nama Barang: Leptop, Jumlah Stok: 300000, Harga per Unit: 5000000, Total Nilai Stok: 1500000000000
+Nama Barang: Ayam, Jumlah Stok: 200000, Harga per Unit: 50000, Total Nilai Stok: 10000000000
